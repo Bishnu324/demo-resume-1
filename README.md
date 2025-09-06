@@ -6,7 +6,8 @@ Results-oriented agriculture graduate with hands-on experience as a social media
 ---
 
 ## 📞 Contact
-- **Email:** [pantb813@gmail.com](mailto:pantb813@gmail.com) 
+- **Email:** [pantb813@gmail.com](mailto:pantb813@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/contactbishnupant?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5%2BsbX7UNTRSlkm8%2Fk1gufw%3D%3D]
 - **Phone:** 9865376807  
 - **Address:** Kathmandu, Nepal   
 
@@ -40,7 +41,6 @@ Results-oriented agriculture graduate with hands-on experience as a social media
 - **MYSQL for beginners**Simplilearn(March 2025)
 - **Data Science using Python** – Evolve IT-Hub, Lalitpur, Nepal (Dec 2024 – Feb 2025) 
 - **Power BI for Beginners** – Simplilearn (0ct 2024)
-- **Microsoft Office (Excel, PowerPoint)**, **Power BI**, **Python**,**MYSQL** **Canva**, **GIS**,**QGIS** 
 
 ---
 
