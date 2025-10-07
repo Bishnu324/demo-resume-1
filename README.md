@@ -31,6 +31,10 @@ Results-oriented agriculture graduate with hands-on experience as a social media
 
 **Global Virtual Internship Program | IIDE**  
 *May – June 2024*  
+- I worked on Google search, prospecting, and Google Workspace management.
+
+  **Global Virtual  Program **  
+*May – June 2025*  
 - I worked on Google search, prospecting, and Google Workspace management.  
 
 ---
