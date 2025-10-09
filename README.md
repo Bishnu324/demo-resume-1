@@ -1,74 +1,19 @@
-# Bishnu Datta Pant 
+# Power_BI_Dashboard
+Files related Interactive Dashboard in Power BI Lesson video available on YouTube
+<Br>
 
-## 👤 About Me
-Results-oriented agriculture graduate with hands-on experience as a social media intern, data-driven analysis, visualization, and dashboard creation
 
----
 
-## 📞 Contact
-- **Email:** [pantb813@gmail.com](mailto:pantb813@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/contactbishnupant?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5%2BsbX7UNTRSlkm8%2Fk1gufw%3D%3D]
-- **Phone:** 9865376807  
-- **Address:** Kathmandu, Nepal   
 
----
+👉 Watch Video : <br><br>
 
-## 🎓 Education
-- **Bachelor’s Degree in Agricultural Science**  
-  Institute of Agriculture and Animal Science, Tribhuvan University, Nepal (2019 - 2023)
+[![Watch the video](https://img.youtube.com/vi/znJGWMtk_EE/hqdefault.jpg)](https://www.youtube.com/watch?v=znJGWMtk_EE&t=1s)
+<br><br>
+👉 You will be able to build Dashboard like below <br><br>
+👆 [Click Here View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzEwYzYzOTYtOWRkNC00ZWM5LTkwM2MtNWE2YmI2YzkzNWY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+<br><br>
+<img src="https://github.com/SatishDhawale/Power_BI_Dashboard/blob/0192a63d87dda50ea2f26bca02ba048dd883b9d1/Dashboard.jpg" alt="Image Description" width="300">
+<img src="https://github.com/SatishDhawale/Power_BI_Dashboard/blob/0192a63d87dda50ea2f26bca02ba048dd883b9d1/MTD%20Report.jpg" width="300">
+<img src="https://github.com/SatishDhawale/Power_BI_Dashboard/blob/0192a63d87dda50ea2f26bca02ba048dd883b9d1/Same%20Period%20Last%20Year%20report.jpg" alt="Image Description" width="300">
 
-- **Intermediate (High School)**  
-  National Academy of Science and Technology, Dhangadhi, Nepal (2016 - 2018)
 
----
-
-## 💼 Experience
-**Social Media Intern | Agricultural Technology Center, Lalitpur**  
-*March – July 2025*  
-- Designed engaging posters and promotional videos, increasing Facebook followers by 1% (42) and YouTube & LinkedIn followers by 5%.  
-- Managed and optimized ATC’s social media content.  
-- Coordinated and successfully organized an online GIS & Remote Sensing workshop with active participation.  
-
-**Global Virtual Internship Program | IIDE**  
-*May – June 2024*  
-- I worked on Google search, prospecting, and Google Workspace management.
-
-  **Global Virtual  Program **  
-*May – June 2025*  
-- I worked on Google search, prospecting, and Google Workspace management.  
-
----
-
-## 📘 Courses
-- **QGIS for Land management** - An Initiative of DILRMP, Department of Land Resources, Ministry of Rural Development, Government of India (Sept 2025)
-- **Advanced diploma in GIS self learning course** - Alison(April-August 2025)
-- **MYSQL for beginners**Simplilearn(March 2025)
-- **Data Science using Python** – Evolve IT-Hub, Lalitpur, Nepal (Dec 2024 – Feb 2025) 
-- **Power BI for Beginners** – Simplilearn (0ct 2024)
-
----
-
-## 🛠 Skills
-- **Technical:** Microsoft Office, Power BI, Python(Pandas,Numpy,Matplotlib,Scikit-learn), MYSQL, Canva, GIS, QGIS 
-- **Soft Skills:** Communication, Organization, Teamwork, Time Management  
-
----
-
-## 🌍 Interests
-- Agri-Technology
-- Data Analysis
-- GIS & Remote Sensing  
-- Marketing  
-   
-
----
-
-## 🌐 Languages
-- English, Nepali, Hindi 
-
----
-
-## 📇 Reference
-**Mr. Santosh Shrestha**  
-Quality Manager at Agricultural Technology Center, Lalitpur  
-📞 9840012016  
